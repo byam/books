@@ -64,7 +64,7 @@ A young woman walks into a laboratory. Over the past two years, she has transfor
 
 ## The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 
-<p align="center"> <img width="300" src="./images/one.jpg"> </p>
+<p align="center"> <img width="300" height="600" src="./images/one.jpg"> </p>
 
 You want fewer distractions and less on your plate. The daily barrage of e-mails, texts, tweets, messages, and meetings distract you and stress you out. The simultaneous demands of work and family are taking a toll. And what's the cost? Second-rate work, missed deadlines, smaller pay cheques, fewer promotions-and lots of stress.
 
